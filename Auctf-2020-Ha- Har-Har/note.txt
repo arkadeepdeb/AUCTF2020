@@ -1,0 +1,4 @@
+Step 1: cat dev.quickbrownfoxes.org_Archive_19-12-01_15-41-53.har
+Step 2: below you will find a string which base64 encoded and an image file copy it.
+Step 3: base64 -d <<< "iVBORw0KGgoAAAANSUhEUgAABIAAAAKICAIAA...." > out.png
+Step 4: Open the image file and you have the flag.
